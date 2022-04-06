@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>First Azure CI and cd page from  test  UAT1</h1>
-            <h1>First Azure CI and cd page from  k1</h1>
+            
         </div>
     </form>
 </body>

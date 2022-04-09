@@ -69,5 +69,6 @@
     <Build Include="dbo\Tables\emp.sql" />
     <Build Include="dbo\Tables\dep.sql" />
     <Build Include="dbo\Stored Procedures\Usp_saveEmployee.sql" />
+    <Build Include="dbo\Stored Procedures\usp_get.sql" />
   </ItemGroup>
 </Project>
